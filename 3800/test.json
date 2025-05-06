@@ -1,6 +1,6 @@
 ﻿{
     "MSG_OK": {
-        "zh-cn": "确定",
+        "zh-cn": "test",
         "zh-tw": "確定",
         "en": "test",
         "mmk": "Confirm",
@@ -12,7 +12,7 @@
         "ph": "Kumpirmahin"
     },
     "MSG_CANCEL": {
-        "zh-cn": "取消",
+        "zh-cn": "test",
         "zh-tw": "取消",
         "en": "Cancel",
         "mmk": "ပယ္ဖ်က္ရန္",
@@ -24,7 +24,7 @@
         "ph": "Kanselahin"
     },
     "MSG_TOKEN_ERROR": {
-        "zh-cn": "连接发生问题，请关闭游戏重新登入。({0})",
+        "zh-cn": "test",
         "zh-tw": "連接發生問題，請關閉遊戲重新登入。({0})",
         "en": "test",
         "id": "Ada masalah dengan koneksi, harap tutup game dan login kembali.({0})",
@@ -35,7 +35,7 @@
         "ph": "May problema tungkol sa koneksyon, mangyaring isara ang laro at muling mag-login.({0})"
     },
     "MSG_DISCONNECT": {
-        "zh-cn": "连接发生问题，请重新登入。({0})",
+        "zh-cn": "test",
         "zh-tw": "連接發生問題，請重新登入。({0})",
         "en": "test",
         "id": "Ada masalah dengan koneksi, harap login kembali.({0})",
@@ -46,7 +46,7 @@
         "ph": "Mayroong problema tungkol sa koneksyon, mangyaring muling mag-login.({0})"
     },
     "MSG_HOMEPAGE": {
-        "zh-cn": "确定要离开游戏，返回首页?",
+        "zh-cn": "test",
         "zh-tw": "確定要離開遊戲，返回首頁?",
         "en": "test",
         "mmk": "ဂိမ္းမွထြက္ျပီးအဓိကစာမ်က္ႏွာသို႔သြားရန္ေသခ်ာပါသလား?",
@@ -58,7 +58,7 @@
         "ph": "Sigurado ka bang gusto mong umalis sa game at bumalik sa Home page?"
     },
     "MSG_ACCOUNT_ERROR": {
-        "zh-cn": "帐号资讯异常代碼{0}，请洽客服，点击确定后回首页。",
+        "zh-cn": "test",
         "zh-tw": "帳號資訊異常代碼{0}，請洽客服，點擊確定後回首頁。",
         "en": "test",
         "mmk": "အေကာင့္အခ်က္အလက္ပံုမွန္မဟုတ္ပါ ကုဒ္(0)။ ေက်းဇူးျပဳ၍ကာစတာမာဆားဗစ္သို႔ဆက္သြယ္ပါ။ အဓိကစာမ်က္ႏွာသို႔သြားရန္အတည္ျပဳရန္ကိုႏွိပ္ပါ။",
@@ -70,7 +70,7 @@
         "ph": "Error code {0} sa impormasyon ng account, pakikontak ang CS. I-click ang Kumpirmahin at bumalik sa website."
     },
     "MSG_SHORT_BALANCE": {
-        "zh-cn": "可用额度不足，请至网站充值。",
+        "zh-cn": "test",
         "zh-tw": "可用額度不足，請至網站儲值。",
         "en": "test",
         "mmk": "သင့္လက္က်န္ေငြမလံုေလာက္ပါ၊ ေက်းဇူးျပဳ၍ေငြျဖည့္သြင္းရန္၀က္ဘ္ဆိုက္သို႔သြားပါ။",
@@ -82,7 +82,7 @@
         "ph": "Kulang ang pondo, mag-deposito sa site."
     },
     "MSG_ACCOUNT_LOCKED": {
-        "zh-cn": "帐号资讯异常代碼{0}，请洽客服，点击确定后回首页。",
+        "zh-cn": "test",
         "zh-tw": "帳號資訊異常代碼{0}，請洽客服，點擊確定後回首頁。",
         "en": "test",
         "mmk": "အေကာင့္အခ်က္အလက္ပံုမွန္မဟုတ္ပါ ကုဒ္(0)။ ေက်းဇူးျပဳ၍ကာစတာမာဆားဗစ္သို႔ဆက္သြယ္ပါ။ အဓိကစာမ်က္ႏွာသို႔သြားရန္အတည္ျပဳရန္ကိုႏွိပ္ပါ။",
@@ -94,7 +94,7 @@
         "ph": "Error code {0} sa impormasyon ng account, pakikontak ang CS. I-click ang Kumpirmahin at bumalik sa website."
     },
     "MSG_TRADE_LOCK": {
-        "zh-cn": "交易进行中，无法进行游戏，点击确定后导回开始游戏。",
+        "zh-cn": "test",
         "zh-tw": "交易進行中，無法進行遊戲，點擊確定後導回開始遊戲。",
         "en": "test",
         "mmk": "ေငြလႊဲေျပာင္းမႈေဆာင္ရြက္ေနပါသည္။ ဂိမ္းမစတင္ႏိုင္ေသးပါ။ အတည္ျပဳရန္ကိုႏွိပ္ျပီးဂိမ္းကိုျပန္လည္စတင္ပါ။",
@@ -106,7 +106,7 @@
         "ph": "Hindi maaaring tumatakbo ang game habang pinoproseso ang transaksyon, at i-click ang Kumpirmahin para i-restart ang game."
     },
     "MSG_VERSION_ERROR": {
-        "zh-cn": "游戏版本不符，请联络客服人员。",
+        "zh-cn": "test",
         "zh-tw": "遊戲版本不符，請聯絡客服人員。",
         "en": "test",
         "mmk": "Game version is not supprt, please contact CS.",
@@ -118,7 +118,7 @@
         "ph": "Hindi suportado ang bersyon ng game, pakikontak ang CS."
     },
     "LOGIN_TIMEOUT": {
-        "zh-cn": "登入时效过期，请重新登入。({0})",
+        "zh-cn": "test",
         "zh-tw": "登入時效過期，請重新登入。({0})",
         "en": "test",
         "mmk": "Login overtime, please re-login again.({0})",
@@ -130,7 +130,7 @@
         "ph": "Overtime sa pag-login, mag-login muli.({0})"
     },
     "MSG_OPTION": {
-        "zh-cn": "展开 / 收回功能列",
+        "zh-cn": "test",
         "zh-tw": "展開 / 收回功能列",
         "en": "test",
         "mmk": "Open / Close Toolbar",
@@ -142,7 +142,7 @@
         "ph": "Toolbar"
     },
     "MSG_BACK_HOME": {
-        "zh-cn": "首页",
+        "zh-cn": "test",
         "zh-tw": "首頁",
         "en": "test",
         "mmk": "Home",
@@ -154,7 +154,7 @@
         "ph": "Home"
     },
     "MSG_MUTE_ALL": {
-        "zh-cn": "声音开启 / 关闭",
+        "zh-cn": "test",
         "zh-tw": "聲音開啟 / 關閉",
         "en": "test",
         "mmk": "Enable / Disable Sounds",
@@ -166,7 +166,7 @@
         "ph": "I-enable ang mga tunog / I-disable ang mga tunog"
     },
     "MSG_TURN_MUSIC": {
-        "zh-cn": "音乐开启 / 关闭",
+        "zh-cn": "test",
         "zh-tw": "音樂開啟 / 關閉",
         "en": "test",
         "mmk": "Enable / Disable Audio",
@@ -178,7 +178,7 @@
         "ph": "I-enable ang audio / I-disable ang audio"
     },
     "MSG_OPEN_PAYTABLE": {
-        "zh-cn": "赔率表",
+        "zh-cn": "test",
         "zh-tw": "賠率表",
         "en": "test",
         "mmk": "Paytable",
@@ -190,7 +190,7 @@
         "ph": "Paytable"
     },
     "MSG_OPEN_HELP": {
-        "zh-cn": "游戏说明",
+        "zh-cn": "test",
         "zh-tw": "遊戲說明",
         "en": "test",
         "mmk": "Game Rules",
@@ -202,7 +202,7 @@
         "ph": "Mga Tuntunin ng Game"
     },
     "MSG_TURN_FULLSCREEN": {
-        "zh-cn": "开启 / 关闭全屏模式",
+        "zh-cn": "test",
         "zh-tw": "開啟 / 關閉全螢幕模式",
         "en": "test",
         "mmk": "Enter / Exit Fullscreen",
@@ -214,7 +214,7 @@
         "ph": "Mag-enter sa fullscreen / Mag-exit sa fullscreen"
     },
     "MSG_POP_BETRECORD": {
-        "zh-cn": "游戏纪录",
+        "zh-cn": "test",
         "zh-tw": "遊戲紀錄",
         "en": "test",
         "mmk": "Record",
@@ -226,7 +226,7 @@
         "ph": "Record"
     },
     "MSG_POP_LOBBY": {
-        "zh-cn": "体验更多高品质游戏",
+        "zh-cn": "test",
         "zh-tw": "體驗更多高品質遊戲",
         "en": "test",
         "mmk": "Experience high quality games.",
@@ -238,7 +238,7 @@
         "ph": "Maranasan ang mga game na may mataas na kalidad"
     },
     "MSG_JACKPOT_CONDITION": {
-        "zh-cn": "亲，「线注」满押才能中JACKPOT，祝您好运!",
+        "zh-cn": "test",
         "zh-tw": "親愛的，「線注」滿押才能中JACKPOT，祝您好運!",
         "en": "test",
         "mmk": "Only max bet can win the JACKPOT!",
@@ -250,7 +250,7 @@
         "ph": ""
     },
     "MSG_WISH": {
-        "zh-cn": "祝您好运!",
+        "zh-cn": "test",
         "zh-tw": "祝您好運!",
         "en": "test",
         "mmk": "Good Luck!",
@@ -262,7 +262,7 @@
         "ph": "Good Luck!"
     },
     "MSG_CONGRATULATION": {
-        "zh-cn": "恭喜中奖!",
+        "zh-cn": "test",
         "zh-tw": "恭喜中獎!",
         "en": "test",
         "mmk": "Congratulations!",
@@ -274,7 +274,7 @@
         "ph": "Good Luck!"
     },
     "MSG_TOTALWIN": {
-        "zh-cn": "总赢得",
+        "zh-cn": "test",
         "en": "test",
         "id": "Total   Kemenangan",
         "ko": "총 상금",
@@ -284,7 +284,7 @@
         "ph": "Kabuuang Panalo"
     },
     "MSG_WALLET": {
-        "zh-cn": "连接发生问题，请重新登入。({0})",
+        "zh-cn": "test",
         "en": "test",
         "id": "Ada masalah dengan koneksi, harap login kembali.({0})",
         "ko": "연결에 문제가 있습니다. 다시 로그인하십시오.({0})",
@@ -294,7 +294,7 @@
         "ph": "Mayroong problema tungkol sa koneksyon, mangyaring muling mag-login.({0})"
     },
     "MSG_ALWAYS": {
-        "zh-cn": "出现4个Scatter可触发免费游戏！",
+        "zh-cn": "test",
         "zh-tw": "出現4個Scatter可觸發免費遊戲！",
         "en": "test",
         "mmk": "4 Scatter trigger 10 Free Game.",
@@ -306,7 +306,7 @@
         "ph": "Magti-trigger ang 4 na Scatter sa 10 Libreng Game."
     },
     "MSG_ALWAYS_2": {
-        "zh-cn": "免费游戏奖金有机会达到上万倍！",
+        "zh-cn": "test",
         "zh-tw": "免費遊戲獎金有機會達到上萬倍！",
         "en": "test",
         "mmk": "The winning amount is up to 10,000X in Free Game.",
